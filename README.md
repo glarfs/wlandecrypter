@@ -49,9 +49,9 @@ Genera el diccionario 'prueba2' para cada BSSID, es decir, para cada router cono
 
 ## Descarga
 
- https://codeload.github.com/glarfs/wlandecryper/tar.gz/1.2.0
+https://codeload.github.com/glarfs/wlandecrypter/tar.gz/1.2.0
 
- Incluye código fuente.
+Incluye código fuente.
 
 
 ## INSTALACION
