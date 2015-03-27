@@ -1,4 +1,4 @@
-# WLANDECRYPTER v1.2
+# WLANDECRYPTER
 
 ## Descripción
 Generador de diccionario de claves por defecto para los routers de Timofonik Zyxel, Xavy, Comtrend, Thomson y Huawei.
